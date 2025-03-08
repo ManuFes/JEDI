@@ -1,0 +1,23 @@
+{
+    "Seleccionar Departamento": "Select Department",
+    "Departamento": "Department",
+    "Selecciona...": "Select...",
+    "Otro...": "Other...",
+    "Nuevo Departamento": "New Department",
+    "Aceptar": "Submit",
+    "Gestión de Edificios": "Building Management",
+    "Asociar Edificio": "Associate Building",
+    "Volver": "Back",
+    "Logout": "Logout",
+    "Edificios Asignados": "Assigned Buildings",
+    "Nombre del Edificio": "Building Name",
+    "Dirección": "Address",
+    "Nº de Despachos": "Number of Offices",
+    "Acciones": "Actions",
+    "Asignar Edificio al": "Assign Building to",
+    "Edificio:": "Building:",
+    "Número de despachos:": "Number of Offices:",
+    "Guardar": "Save",
+    "¿Eliminar esta asociación?": "Delete this association?",
+    "Gestión de Departamentos": "Department Management"
+}
